@@ -12,7 +12,7 @@ Code is organized as follows:
 - The function.py file was created to centralize functions such as calculating the dissimilarity matrix and reducing dimensionality.
 - The Monolithic.py contains the code to train and optimize hyperparameters (grid search) for the 8 classification algorithms considered in this work.
 - The jupyter notebooks that start with "Experiment" are the files of the experiments for each dataset used to build the paper.
-- The folder "Save Predict and Proba" have the preprocessed predictions and probabilities obtained by each feature extraction method and classification algorithm trained for each dataset.
+- The folder "Saved Predict and Proba" have the preprocessed predictions and probabilities obtained by each feature extraction method and classification algorithm trained for each dataset.
 - Diversity analysis.ipynb contains the code to compute the diversity between the models and generate the Classifier Projection Space (CPS) to analyze the relationship between the classifiers.
 - Stacking.ipynb contains the code to apply the Stacked Generalization method to combine the trained models.
 
