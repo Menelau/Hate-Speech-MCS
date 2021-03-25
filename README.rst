@@ -14,7 +14,7 @@ Code is organized as follows:
 
 Requirements and installation:
 ------------------------------
-This code requires Python >= 3.6.5, Zeugma, Scikit-learn, DESlib, Pandas, NLTK and Matplotlib. Environment can be installed using the following command:
+This code requires Python >= 3.6.5, Zeugma, Scikit-learn, DESlib, Pandas, NLTK, UMAP, Matplotlib. Environment can be installed using the following command:
 
 pip install requirements.txt -r
 

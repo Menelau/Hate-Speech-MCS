@@ -3,3 +3,4 @@ deslib
 matplotlib
 nltk
 pandas
+umap
