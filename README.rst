@@ -1,6 +1,10 @@
-# Selecting and combining complementary feature representations and classifiers for hate speech detection
+Selecting and combining complementary feature representations and classifiers for hate speech detection
+========================================================================================================
 
 Official implementation of the paper "Selecting and combining complementary feature representations and classifiers for hate speech detection" by Rafael M. O. Cruz, Woshington V. de Souza and George D. C. Cavalcanti.
+
+Organization:
+-------------
 
 Code is organized as follows:
 
