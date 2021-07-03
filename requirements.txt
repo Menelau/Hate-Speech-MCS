@@ -1,3 +1,5 @@
+keras==2.4.3
+tensorflow==2.4.0
 zeugma
 deslib
 matplotlib
