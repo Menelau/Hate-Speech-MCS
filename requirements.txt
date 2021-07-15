@@ -1,5 +1,6 @@
 keras==2.4.3
 tensorflow==2.4.0
+gensim==3.8
 zeugma
 deslib
 matplotlib
