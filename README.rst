@@ -17,7 +17,7 @@ Code is organized as follows:
 
 - The folder **"Data"** contains all the datasets splits (k-folds) used in this work.
 - The folder **"Results"** contains the supplementary results for each fold, results of each individual classifier (Monolithic) as well as UMAP and confusion matrices plots.
-- The folder "Saved Predict and Proba" have the preprocessed predictions and probabilities obtained by each feature extraction method and classification algorithm trained for each dataset.
+- The folder **"Saved Predict and Proba"** have the preprocessed predictions and probabilities obtained by each feature extraction method and classification algorithm trained for each dataset.
 
 
 Requirements and installation:
